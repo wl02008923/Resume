@@ -1,0 +1,38 @@
+#wrapper{
+	width: 1200;
+	margin: auto;
+}
+#header {
+	height: 150px;
+	background-color: rgba(255,255,255,0.5);
+	position: relative;
+	left: -8px;
+}
+
+.welcome{
+	font-size: 28px;
+	color: white;
+	font-family: 'Cataneo BT';
+	text-align: center;
+	text-shadow: 3px 3px 20px black;
+	top:50px;
+	left: -10px;
+}
+#imgShadow{
+	box-shadow: 0px 0px 20px 12px white;
+}
+.img1{
+	left: -5px;
+}
+.img2{
+	}
+.img3{
+	left: -5px;
+}
+.footnote{
+	font-size: 18px;
+	font-family: 'Cataneo BT';
+	text-align: center;
+	color: white;
+	text-shadow: 0px 0px 10px #fffdcc;
+}
